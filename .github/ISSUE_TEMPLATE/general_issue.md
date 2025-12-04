@@ -6,21 +6,20 @@ labels: []
 assignees: ""
 ---
 
-## Issue description
-Current Step 2 deployment does not accept changes made by the user in the Step 1 chat interface.
+## Issue Description
+Describe the issue we are encountering now in detail.
 
 ## Link
-2.X.X
+X.X.X (Link to the relevant section in our overall workflow)
 
 ## Technology
-- GPT 5.1
-- Container app deployment on Azure
+What technology or models are used in this part?
 
-## Solution description
-- Add an AI layer (GPT 5.1) that understands the user’s additional requests and determines where they fit in the general workflow.
-- Inject the instructions from the model into the specific section to make the required changes (e.g., adding a country to benchmark).
-- Always use the framework agreed upon in Step 1 instead of relying on pre-existing frameworks.
-- Limit sections to the ones agreed upon with the user.
+## Solution Description
+A detailed description of how you plan to solve it in step by step:
+1. 
+2. 
+3. 
 
 ## Testing
 Describe how this should be tested, including expected outcomes, test steps, and any specific scenarios that must be validated.
